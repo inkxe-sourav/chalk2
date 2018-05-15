@@ -17,9 +17,9 @@
 		},
 		{
 			"id": 2,
-			"name": "Turboprop",
+			"name": "Light Jet",
 			"seats": 7,
-			"price": 14800,
+			"price": 15700,
 			"date": "2018-05-29",
 			"estimatedPrice": 0,
 			"orgCode": "MIA",
@@ -28,7 +28,7 @@
 			"desAirport": "John F. Kennedy International Airport",
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
-			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
+			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508196913.jpeg"
 		}
 	]
 }
