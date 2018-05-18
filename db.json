@@ -13,7 +13,8 @@
 			"desAirport": "John F. Kennedy International Airport",
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
-			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg"
+			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508197808.jpeg",
+			"tax":55
 		},
 		{
 			"id": 2,
@@ -28,7 +29,8 @@
 			"desAirport": "John F. Kennedy International Airport",
 			"depLat": 25.795865,
 			"depLon": -80.28704570000002,
-			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508196913.jpeg"
+			"aircraftThumbnail": "https://brs-apartments.s3.amazonaws.com/blade/production/charter-estimate-rules/1508196913.jpeg",
+			"tax":70
 		}
 	]
 }
