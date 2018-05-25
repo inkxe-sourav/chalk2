@@ -51,5 +51,15 @@
 			"desAirport": "John F. Kennedy International Airport",
 			"total": 1675
 		}
+	],
+	"userYachtHistory":[
+		{
+			"userId":4,
+			"name": "120 TECNOMAR",
+			"thumbnail": "https://image.yachtcharterfleet.com/charter-CLOUD-9/CLOUD-9-1.jpg?image_id=519748&k=3f0e&w=973&h=470&q=95&o=wc",
+			"location": "Miami FL",
+			"total": 1200,
+			"Guests": 10,
+		}
 	]
 }
