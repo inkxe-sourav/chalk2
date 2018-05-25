@@ -35,7 +35,7 @@
 	],
 	"userFlightHistory":[
 		{	
-			"userId":1,
+			"userId":4,
 			"departure": "06:00 AM",
 			"arrival": "08:56 AM",
 			"date": "2018-05-24",
